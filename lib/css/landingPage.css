@@ -17,6 +17,25 @@
      background-position: 50% 50%;
 }
 
+ .xoticCreditText {
+     position:absolute;
+     font-size: 1.5vw;
+     text-align: center;
+     color: white;
+     left: 50%;
+     top: 90%;
+     width: 100%;
+     transform: translate(-50%, -50%);
+     text-shadow: 0px 0px 15px white;
+     font-family: Titan One;
+     animation: animationCredit 1s 0s ease infinite alternate;
+}
+
+ @keyframes animationCredit {
+     0% {font-size: 1.5vw;}
+     100% {font-size: 1.7vw;}
+}
+
  .mainText {
      position:absolute;
      font-size: 6vw;
