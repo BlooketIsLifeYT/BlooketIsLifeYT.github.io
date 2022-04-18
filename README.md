@@ -1,1 +1,1 @@
-im going to kill myself
+Bro momne,to
